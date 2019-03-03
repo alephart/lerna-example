@@ -1,6 +1,6 @@
 {
   "name": "test3",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Paquete 3",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "\u001b2@juancpulidosme",
   "license": "ISC",
   "dependencies": {
-    "test1": "^0.0.1",
-    "test2": "^0.0.1"
+    "test1": "^1.0.0",
+    "test2": "^1.0.0"
   }
 }
